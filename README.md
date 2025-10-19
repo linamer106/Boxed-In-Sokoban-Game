@@ -6,20 +6,14 @@ A console-based puzzle game in C, where you push boxes onto target squares in a 
 
 Move the player X and push boxes O onto targets *. Undo moves with z. The game ends when all boxes are on target squares.
 
-Key	Action:
-w:	Move Up
-a:	Move Left
-s: Move Down
-d:	Move Right
-z:	Undo Last Move
+| Key | Action       |
+|-----|-------------|
+| w   | Move Up      |
+| a   | Move Left    |
+| s   | Move Down    |
+| d   | Move Right   |
+| z   | Undo Last Move |
 
-Example board:
-
-##########
-/#        #
-/#  X O * #
-/#        #
-##########
 
 ## ⚡ Features
 
